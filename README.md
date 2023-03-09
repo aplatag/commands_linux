@@ -8,7 +8,7 @@
 ---
 # Comandos básicos
 
-* limpiar terminar 
+* Limpiar terminar 
 ```bash
 clear
 ```
